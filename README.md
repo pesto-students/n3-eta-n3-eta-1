@@ -45,7 +45,7 @@ Use ``` https://stylezone-db-server.herokuapp.com/products ``` endpoint to load 
 - <a href="https://drive.google.com/file/d/1GiBw5MiUFOHpOKgiZaMhIDFKly-VZ3ex/view?usp=sharing"> PRD </a>
 - <a href="https://drive.google.com/file/d/1BuS2LSuB5F5ypr1HoeUOQAG0ljIYrNJy/view?usp=sharing"> HLDA </a>
 
-## Contanct Information
+## Contact Information
 <a href="https://github.com/prateekchachra/n3-eta/edit/main/README.md">Prateek Chachra</a> - prateekchachra@live.com
 <br/>
 <a href="https://github.com/DParik">Dipen Parikh</a> - deepenparikh9@gmail.com
