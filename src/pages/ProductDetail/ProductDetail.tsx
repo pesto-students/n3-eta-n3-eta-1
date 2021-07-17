@@ -58,7 +58,7 @@ function ProductDetailPage() {
     }
 
     const fetchSimilarProductSuggestions = async () => {
-        const response = await axios.get(`/products?category=${product?.category}`);
+        const response = await axios.get(`/products?category=${product?.category}&gender=${product?.gender}`);
         if(response.data) {
             setSimilarProductSuggestions(response.data);
         }
