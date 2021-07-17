@@ -11,6 +11,7 @@ export type ProductModel = {
     discountPercent: number | 0,
     images: string[],
     category: string,
+    gender: string,
     size: number | 0,
     color: string,
     quantity: number
